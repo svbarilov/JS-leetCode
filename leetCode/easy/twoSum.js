@@ -24,3 +24,5 @@ var twoSum = function(nums, target) {
 };
 
 twoSum(nums, target);
+
+// One pass HashMap solution, linear time, linear space, trading time for space and using Hash for quick lookups
